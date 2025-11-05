@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Prakash 👋
 
-<!--
-**Mardiprk/Mardiprk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building on **Solana** | 🦀 Rust Developer | 💻 Web3 Engineer  
+Passionate about **DeFi, Tokenization, and Real-World Assets (RWA)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- 🧭 Solana programs using **Anchor Framework**  
+- 💰 Smart contracts for RWA and payment solutions  
+- ⚙️ Full-stack dApps (**Next.js + Anchor + Wallet Adapter**)
+
+---
+
+## 🧠 Learning Journey
+- Solana accounts model & PDAs  
+- Anchor framework & CPIs  
+- Token-2022 extensions  
+- Smart contract security
+
+---
+
+## 📫 Let's Connect
+- [Twitter](https://x.com/0xKaash)  
+- [LinkedIn](https://www.linkedin.com/in/prakashmardi29/)  
+- [Website](https://prakashmardi-blond.vercel.app/)
